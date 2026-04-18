@@ -24,5 +24,5 @@ FEATURES
 - Run the program
 
 👤 AUTHOR
-Name: Anmol Gupta
-UID: 25BCU10016
+**Khushi**
+**UID:25BCU10016**
